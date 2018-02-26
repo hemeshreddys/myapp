@@ -10,7 +10,7 @@ body{
   width:80%;
   background-color:#8fa125b2;
   min-height: 400px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Sacramento', cursive;
 }
 .container{
   display: flex;
