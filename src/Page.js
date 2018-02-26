@@ -9,12 +9,12 @@ class Page extends Component{
             height:'60vh',
             fontFamily: "'Sacramento', cursive;",
             backgroundColor: this.props.bgColor,
-            fontSize:'32px',
+            fontSize:'4.5em',
             margin:'2px 0px'
         };
         return(
                 <div style={stylesS}>
-                 
+                  {this.props.contentP}
                 </div>
         );
     }
