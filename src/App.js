@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import MainHeader from './MainHeader';
 import MainFooter from './MainFooter';
-import data from './data.json';
 import Page from './Page';
 
 class App extends Component {
