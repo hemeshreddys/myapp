@@ -14,7 +14,7 @@ class Page extends Component{
         };
         return(
                 <div style={stylesS}>
-                hemesh 
+                 
                 </div>
         );
     }
