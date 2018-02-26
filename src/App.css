@@ -1,0 +1,22 @@
+
+body{
+  background-color: #F0EEE8;
+  color: white;
+}
+.innerContainer{
+  align-self: flex-start;
+  box-sizing: border-box;
+  font-size:24px;
+  width:80%;
+  background-color:#8fa125b2;
+  min-height: 400px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center;
+  min-height: 400px;
+  width: 100%;
+}
